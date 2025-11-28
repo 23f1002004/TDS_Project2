@@ -1,4 +1,4 @@
-TDS Project 2 — Automated Quiz Solver (LLM-Powered)
+# **TDS Project 2 — Automated Quiz Solver (LLM-Powered)**
 
 This project automatically fetches, parses, downloads files, and solves quiz questions using an LLM (Gemini / GPT).
 It supports quizzes with:
